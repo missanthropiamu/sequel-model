@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
