@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Add YOLOv8 LibTorch C++ inference example (#7090)
