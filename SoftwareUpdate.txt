@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
