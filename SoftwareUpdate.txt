@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
