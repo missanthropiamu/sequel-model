@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+ultralytics 8.1.31 NCNN and CLIP updates (#9235)
