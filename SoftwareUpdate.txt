@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add docs links to all dataset YAMLs (#7360)
