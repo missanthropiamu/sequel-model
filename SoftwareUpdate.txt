@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
