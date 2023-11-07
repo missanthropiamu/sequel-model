@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Add dota8.yaml and O tests (#7394)
