@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+ultralytics 8.1.2 scope HUB-SDK imports (#7596)
