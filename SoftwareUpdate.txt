@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Add visuals in guides/distance-calculation.md (#7876)
