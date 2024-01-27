@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Improve Docs Modes tables (#8266)
