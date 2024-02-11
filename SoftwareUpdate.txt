@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Add C++ Classify inference example (#6868)
